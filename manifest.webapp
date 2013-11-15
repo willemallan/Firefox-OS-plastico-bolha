@@ -1,0 +1,19 @@
+{
+    "name": "Plástico Bolha",
+    "version": "0.1",
+    "description": "Simulador de estouras bolhas",
+    "launch_path": "/index.html",
+    "developer": {
+        "name": "Willem Allan",
+        "url": "http://www.willemallan.com.br"
+    },
+    "default_locale": "pt-BR",
+    "icons": {
+        "32": "/static/images/icon32.png",
+        "60": "/static/images/icon60.png",
+        "90": "/static/images/icon90.png",
+        "120": "/static/images/icon120.png",
+        "128": "/static/images/icon128.png",
+        "256": "/static/images/icon256.png"
+    }
+}
