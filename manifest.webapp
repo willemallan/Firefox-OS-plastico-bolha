@@ -1,13 +1,15 @@
 {
     "name": "Plástico Bolha",
-    "version": "0.1",
-    "description": "Simulador de estouras bolhas",
+    "description": "Simulador de plástico bolha.",
+    "version": "0.2",
     "launch_path": "/index.html",
+    "slug": "bubble-wrap",
+    "default_language": "pt-BR",
+    "default_locale": "pt-BR",
     "developer": {
         "name": "Willem Allan",
         "url": "http://www.willemallan.com.br"
     },
-    "default_locale": "pt-BR",
     "icons": {
         "32": "/static/images/icon32.png",
         "60": "/static/images/icon60.png",
@@ -15,5 +17,19 @@
         "120": "/static/images/icon120.png",
         "128": "/static/images/icon128.png",
         "256": "/static/images/icon256.png"
+    },
+    "locales": {
+        "en": {
+            "name": "Bubble wrap",
+            "description": "Bubble wrap simulator."
+        },
+        "pt_BR": {
+            "name": "Plástico Bolha",
+            "description": "Simulador de plástico bolha.",
+        },
+        "en-US": {
+            "name": "Bubble wrap",
+            "description": "Bubble wrap simulator."
+        }
     }
 }
