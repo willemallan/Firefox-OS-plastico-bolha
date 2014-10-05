@@ -1,7 +1,7 @@
 {
     "name": "Plástico Bolha",
     "description": "Simulador de plástico bolha.",
-    "version": "0.2",
+    "version": "0.3",
     "launch_path": "/index.html",
     "developer": {
         "name": "Willem Allan",
@@ -22,6 +22,7 @@
             "description": "Bubble wrap simulator."
         }
     },
+    "orientation": [ "portrait-primary" ],
     "icons": {
         "32": "/static/images/icon32.png",
         "60": "/static/images/icon60.png",
