@@ -1,3 +1,5 @@
+screen.mozLockOrientation("portrait-primary");
+
 function geraBolhas(){
     var ul = document.getElementById('bubble-background');
 
